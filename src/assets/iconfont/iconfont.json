@@ -1,0 +1,23 @@
+{
+  "id": "4067021",
+  "name": "library",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "322925",
+      "name": "QQ",
+      "font_class": "11qq",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "21374632",
+      "name": "微信",
+      "font_class": "weixin3",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
